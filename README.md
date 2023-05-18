@@ -1,0 +1,3 @@
+# Data-transformation-techniques
+
+The article explores the significance of normal distribution in data analysis and investigates techniques for transforming data to achieve normality. It delves into the fundamental concepts of normal distribution and its relevance in statistical inference. The article discusses various methods and strategies that can be employed to transform non-normal data into a normal distribution, enabling the application of statistical tests and assumptions that rely on normality. By highlighting the importance of normality and providing practical insights into data transformation techniques, the article aims to enhance the understanding and application of statistical analysis in research and decision-making processes.
